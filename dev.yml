@@ -4,7 +4,7 @@
   color: green
   message: It is a test at 05.
 
-- date: 2020-04-04T09:59:43.10-03:00
+- date: 2020-04-04T05:59:43.10-03:00
   tags:
     - SMS
     - E-Mail
@@ -17,3 +17,10 @@
     - E-Mail
   color: red
   message: It is a test at 03.
+
+- date: 2020-04-03T10:30:43.10-03:00
+  tags:
+    - SMS
+    - E-Mail
+  color: green
+  message: It is a test at 03 green.
