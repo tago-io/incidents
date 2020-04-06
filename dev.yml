@@ -3,7 +3,13 @@
     - MQTT
   message: It is a test.
 
-- date: 2020-05-05T09:59:43.10-03:00
+- date: 2020-04-04T09:59:43.10-03:00
+  tags:
+    - SMS
+    - E-Mail
+  message: It is a test.
+
+- date: 2020-04-03T09:59:43.10-03:00
   tags:
     - SMS
     - E-Mail
