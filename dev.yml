@@ -24,3 +24,11 @@
     - E-Mail
   color: green
   message: It is a test at 03 green.
+  
+  
+- date: 2020-01-03T10:30:43.10-03:00
+  tags:
+    - SMS
+    - E-Mail
+  color: red
+  message: It is a test at 01-03 green.
