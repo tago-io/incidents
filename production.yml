@@ -1,1 +1,17 @@
+- date: 2020-04-29T13:55:00.10-03:00
+  tags:
+    - Analysis
+  color: green
+  message: Issue with Analysis Service was solved.
 
+- date: 2020-04-29T13:40:00.10-03:00
+  tags:
+    - Analysis
+  color: orange
+  message: We are investigating elevated errors for Analysis service.
+
+- date: 2020-04-29T13:35:00.10-03:00
+  tags:
+    - Analysis
+  color: red
+  message: Analysis service is unstable.
