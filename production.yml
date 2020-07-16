@@ -4,7 +4,7 @@
   color: green
   message: Issue with API was solved.
   
-  - date: 2020-07-16T10:07:00.10-03:00
+- date: 2020-07-16T10:07:00.10-03:00
   tags:
     - Api
   color: orange
