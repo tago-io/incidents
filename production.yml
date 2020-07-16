@@ -8,14 +8,14 @@
   tags:
     - Api
   color: orange
-  message: The root of the issue was in the bucket's data delete queue, causing denial of service of the API.
+  message: "The root of the issue was in the bucket's data delete queue, causing denial of service of the API."
 
 - date: 2020-07-16T10:22:00.10-03:00
   tags:
     - Api
   color: orange
-  message: Issue was found, some customers may have been affected with an unresponsive API or with this error: Bucket database unavailable.
-  
+  message: 'Issue was found, some customers may have been affected with an unresponsive API or with this error: Bucket database unavailable.'
+
 - date: 2020-07-16T10:07:00.10-03:00
   tags:
     - Api
