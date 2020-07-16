@@ -2,13 +2,25 @@
   tags:
     - Api
   color: green
-  message: Issue with API was solved.
+  message: Issue was solved.
+
+- date: 2020-07-16T11:49:00.10-03:00
+  tags:
+    - Api
+  color: orange
+  message: The root of the issue was in the bucket's data delete queue, causing denial of service of the API.
+
+- date: 2020-07-16T10:22:00.10-03:00
+  tags:
+    - Api
+  color: orange
+  message: Issue was found, some customers may have been affected with an unresponsive API or with this error: Bucket database unavailable.
   
 - date: 2020-07-16T10:07:00.10-03:00
   tags:
     - Api
   color: orange
-  message: We are investigating instability on the API (Delete queue)
+  message: We are investigating instability on the API.
 
 - date: 2020-04-29T13:55:00.10-03:00
   tags:
