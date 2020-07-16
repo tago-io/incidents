@@ -1,8 +1,14 @@
-- date: 2020-07-16T11:31:00.10-03:00
+- date: 2020-07-16T12:01:00.10-03:00
+  tags:
+    - Api
+  color: green
+  message: Issue with API was solved.
+  
+  - date: 2020-07-16T10:07:00.10-03:00
   tags:
     - Api
   color: orange
-  message: We are investigating loading errors for some widgets.
+  message: We are investigating instability on the API (Delete queue)
 
 - date: 2020-04-29T13:55:00.10-03:00
   tags:
