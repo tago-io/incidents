@@ -1,3 +1,9 @@
+- date: 2020-10-09T12:40:00.10-03:00
+  tags:
+    - Analysis
+  color: orange
+  message: The cause for the delay is a network issue in our cloud provider. We are closely monitoring the situation and doing everything we can to normalize execution times.
+
 - date: 2020-10-09T12:20:00.10-03:00
   tags:
     - Analysis
