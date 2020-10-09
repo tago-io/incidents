@@ -2,7 +2,7 @@
   tags:
     - Analysis
   color: orange
-  message: Execution error rate for Analyses is at 12%. We continue to monitor and work towards a solution.
+  message: Execution error rate for Analyses is at 12%. We continue to monitor the situation.
 
 - date: 2020-10-09T12:40:00.10-03:00
   tags:
