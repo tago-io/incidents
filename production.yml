@@ -1,3 +1,9 @@
+- date: 2020-10-09T13:29:00.10-03:00
+  tags:
+    - Analysis
+  color: green
+  message: Instability was resolved.
+
 - date: 2020-10-09T13:10:00.10-03:00
   tags:
     - Analysis
