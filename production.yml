@@ -4,12 +4,6 @@
   color: orange
   message: Fixed-IP temporary disabled to allow connection with Latin America.
 
-- date: 2020-10-10T19:00:00.10-03:00
-  tags:
-    - Api
-  color: orange
-  message: Fixed-IP removed to allow connection with Latin America.
-
 - date: 2020-10-10T18:45:00.10-03:00
   tags:
     - Api
