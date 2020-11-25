@@ -1,3 +1,9 @@
+- date: 2020-11-25T13:00:00.10-03:00
+  tags:
+    - Api
+  color: red
+  message: An Amazon AWS outage is currently impacting TagoIO so you may be having issues accessing your dashboards. We are actively working with AWS and will report when the issue has subsided. We apologize for any inconvenience!
+
 - date: 2020-10-10T19:31:00.10-03:00
   tags:
     - Api
