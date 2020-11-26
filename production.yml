@@ -1,3 +1,9 @@
+- date: 2020-10-10T20:00:00.10-03:00
+  tags:
+    - Api
+  color: green
+  message: Instability was resolved, the AWS was down. We are monitoring continuously.
+  
 - date: 2020-11-25T13:00:00.10-03:00
   tags:
     - Api
