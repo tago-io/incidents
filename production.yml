@@ -1,20 +1,14 @@
 - date: 2021-04-04T09:00:00.10-03:00
   tags:
     - Api
-  color: red
+  color: orange
   message: We are investigating problem on data digest.
   
 - date: 2021-04-04T08:00:00.10-03:00
   tags:
     - Api
-  color: red
+  color: orange
   message: Instability on bucket data digest.
-
-- date: 2021-04-04T07:00:00.10-03:00
-  tags:
-    - Api
-  color: red
-  message: Data bucket digest is unstable.
 
 - date: 2021-02-10T11:07:00.10-03:00
   tags:
