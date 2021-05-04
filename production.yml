@@ -1,3 +1,15 @@
+- date: 2021-05-04T12:35:00.10-03:00
+  tags:
+    - Api
+  color: green
+  message: Instability on API requests was resolved.
+
+- date: 2021-05-04T12:05:00.10-03:00
+  tags:
+    - Api
+  color: orange
+  message: We are investigating problem on API with slow requests.
+  
 - date: 2021-04-04T17:30:00.10-03:00
   tags:
     - Api
