@@ -1,3 +1,9 @@
+- date: 2021-06-08T09:00:00.10-03:00
+  tags:
+    - Api
+  color: orange
+  message: Instability detected in our API, we are investigating the issue.
+
 - date: 2021-05-04T12:35:00.10-03:00
   tags:
     - Api
