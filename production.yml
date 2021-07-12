@@ -8,7 +8,7 @@
   tags:
     - Api
   color: orange
-  message: We are still investigating delayed execution times for TagoRun.
+  message: We are still investigating delayed response times for TagoRun.
 
 - date: 2021-07-12T16:40:00.10-03:00
   tags:
