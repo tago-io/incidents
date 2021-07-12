@@ -1,8 +1,14 @@
+- date: 2021-07-12T17:10:00.10-03:00
+  tags:
+    - Api
+  color: green
+  message: Instability was resolved.
+
 - date: 2021-07-12T17:00:00.10-03:00
   tags:
     - Api
   color: orange
-  message: We are still investigating slow response times for TagoRun in our API.
+  message: We are still investigating delayed execution times for TagoRun.
 
 - date: 2021-07-12T16:40:00.10-03:00
   tags:
